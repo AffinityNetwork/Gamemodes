@@ -1,8 +1,6 @@
 # AffinityMC » Gamemodes
-
- ![Discord Shield](https://discordapp.com/api/guilds/498196968535752724/widget.png?style=shield)[]
  
-![](https://visitor-badge.glitch.me/badge?page_id=affinitynetwork.gamemodes) [![Discord](https://discordapp.com/api/guilds/498196968535752724/widget.png?style=shield)](https://www.discord.affinitymc.net) ![](https://img.shields.io/badge/Server-Online-brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=affinitynetwork.gamemodes) [![Discord](https://discordapp.com/api/guilds/498196968535752724/widget.png?style=shield)](http://www.discord.affinitymc.net) ![](https://img.shields.io/badge/Server-Online-brightgreen)
 
 Official Github of AffinityMC, some of the things you may find / do here are;
 - Report server issues (glitches, bugs and other issues).
