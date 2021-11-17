@@ -10,3 +10,4 @@ Welcome to the Official Github of AffinityMC;
 # List of Gamemodes
 - [SMP](https://github.com/AffinityNetwork/Gamemodes/wiki)
 - [Mafia](https://github.com/AffinityNetwork/Gamemodes/wiki)
+- More Coming Soon!
